@@ -1,7 +1,7 @@
 
 
-# alexkuzmenko.github.io
-Веб-разработчик 10.0 (домашки)
+# Александр Кузьменко
+Веб-разработчик 10.0 (мои домашние работы)
 
 [Урок1](https://github.com/Purplejam/alexkuzmenko.github.io/tree/master/lesson_1 "ДЗ1") - Установка необходимых программ и этапы разработки сайтов.
 
@@ -24,6 +24,8 @@
 [Урок10](https://github.com/Purplejam/alexkuzmenko.github.io/tree/master/lesson_10 "ДЗ10") - Работа с LESS.
 
 [Урок11](https://github.com/Purplejam/alexkuzmenko.github.io/tree/master/lesson_11 "ДЗ11") - Sublime Text и сниппеты.
+
+[Урок12](https://github.com/Purplejam/alexkuzmenko.github.io/tree/master/lesson_12 "ДЗ12") - Хостинг от Gisthub.
 
 
 
